@@ -186,7 +186,7 @@
                 <elementProp name="flight" elementType="HTTPArgument">
                   <boolProp name="HTTPArgument.always_encode">true</boolProp>
                   <stringProp name="Argument.name">flight</stringProp>
-                  <stringProp name="Argument.value">234</stringProp>
+                  <stringProp name="Argument.value">20</stringProp>
                   <stringProp name="Argument.metadata">=</stringProp>
                 </elementProp>
                 <elementProp name="fromPort" elementType="HTTPArgument">
